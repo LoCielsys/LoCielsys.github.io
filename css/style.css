@@ -338,6 +338,8 @@ html, body, #fullpage{
 }
 .avatar-box__left {
   text-align: center;
+  position: relative;
+  z-index: 2;
 }
 .avatar-box__left .avatar {
   width: 80px;
